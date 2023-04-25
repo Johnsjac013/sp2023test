@@ -9,8 +9,7 @@ body  {
   color:red;
   font-size:150%;
 }
-img {
+img.a {
   width:375px;
   height:400px;
-  object-position:100px 20%;
 }
