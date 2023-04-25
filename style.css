@@ -12,4 +12,5 @@ body  {
 img {
   width:375px;
   height:400px;
+  object-position:top right;
 }
