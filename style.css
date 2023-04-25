@@ -12,5 +12,5 @@ body  {
 img {
   width:175px;
   height:200px;
-  float:left;
+  float:top right;
 }
