@@ -1,16 +1,16 @@
-p  {
+p {
     font-size:125%
     font-family: "Lucida Console", "Courier New", monospace
     color:lightgreen
     text-align:right;
 }
-img  {
+img {
     float:left;
 }
-body  {
+body {
     background-color:purple;
 }
-h1  {
+h1 {
     text-align:center;
     color:blue;
 }
